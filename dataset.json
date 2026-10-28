@@ -1,0 +1,5 @@
+[
+  {"id": 1, "metric": "cpu_load", "score": 78.5, "status": "active"},
+  {"id": 2, "metric": "ram_usage", "score": 42.1, "status": "idle"},
+  {"id": 3, "metric": "io_wait", "score": 89.2, "status": "active"}
+]
