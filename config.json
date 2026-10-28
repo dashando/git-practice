@@ -1,0 +1,8 @@
+{
+  "project_name": "SUAI Git Lab 5",
+  "version": "1.0.0",
+  "author": "Daria Sokolova",
+  "group": "4618",
+  "department": "Department 41",
+  "enabled_modules": ["core", "analytics", "reporting"]
+}
